@@ -1,3 +1,5 @@
+package utils
+
 type Node struct {
 	data interface{}
 	next *Node
